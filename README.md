@@ -1,2 +1,0 @@
-# mynextapp
-my first app
